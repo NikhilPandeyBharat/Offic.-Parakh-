@@ -1,0 +1,6 @@
+fastapi==0.141.1
+pydantic==2.13.4
+PyJWT==2.13.0
+python_bcrypt==0.3.2
+reportlab==4.4.7
+SQLAlchemy==2.0.52
